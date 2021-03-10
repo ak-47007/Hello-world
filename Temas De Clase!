@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<body meta charset="UTF-8"/  background="https://previews.123rf.com/images/vska/vska1607/vska160700059/60629281-encabezado-del-sitio-web-digital-abstracto-la-tecnolog%C3%ADa-de-fondo-banner.jpg">
+
+<title>Conceptos e Informacion Que Se Ha Visto En Clase!.</title>
+
+<header><h1 style="font-size:300%;"><font color="BC0F0F "><b><em>Lo Aprendido En Clase!.</em></h1></font></b></header>
+<hr/>
+
+
+<p style="font-size:large;"><b><marquee><em>Esto es informacion base y conceptos principales de lo visto en la clase de programacion web, Si deseas ver mas informacion detallada sobre un tema da click en los vinculos del tema.</em></marquee></b></p>
+ 
+<hr>
+
+<aside>
+	<div id="Índice">
+	     <h2>Índice</h2>
+	     <ul>
+		    <li><a href="file:///C:/Users/HP/Documents/Tareas%20alex/Learn%20New%20language%20program/Pagina%20HTML/Aprendido.html">¿COMO TRABAJA EL INTERNET? Y SDK WEB</a></li>
+		     <li><a href="file:///C:/Users/HP/Documents/Tareas%20alex/Learn%20New%20language%20program/Pagina%20HTML/Aprendido2.html">INTRODUCCION a HTML Y VERSIONES DE HTML</a></li>
+		     <li><a href="file:///C:/Users/HP/Documents/Tareas%20alex/Learn%20New%20language%20program/Pagina%20HTML/Aprendido3.html">ANATOMIA BASICA DE HTML Y BOILERPLATE</a></li>
+		     <li><a href="file:///C:/Users/HP/Documents/Tareas%20alex/Learn%20New%20language%20program/Pagina%20HTML/Aprendido4.html">LISTAS Y IMAGENES</a></li>
+		     <li><a href="file:///C:/Users/HP/Documents/Tareas%20alex/Learn%20New%20language%20program/Pagina%20HTML/Aprendido5.html">TABLAS Y VINCULOS</a></li>
+
+	    </ul>
+     </div>
+</aside>
+
+
+<h2><font color="blue"><i>1.-Como trabaja el internet</i></h2></font>
+
+<p style="font-size:130%;"><b>Tenga en cuenta que Internet no es una nube de burbujas incluso en la nueva era de la computación en la nube toda la imagen de la nube borrosa era creado por personas más preocupadas por seguridad laboral que la educación esta es la Internet Internet es un cable en realidad enterrado en el suelo podría ser fibra óptica de cobre u ocasionalmente con rayos satélites o por teléfono celular redes, pero Internet es simplemente un conectar Internet es útil porque dos ordenadores conectados directamente a este cable puede comunicar un servidor es un computadora especial conectada directamente a
+Internet y las páginas web son archivos en que el disco duro de los servidores tiene cada servidor una dirección de Protocolo de Internet o IP única dirección como una dirección postal IP las direcciones ayudan a las computadoras a encontrarse también dales nombres como google.com facebook.com o com. catalizador de seguridad así es como funciona tu computadora en casa no es un servidor
+porque no está conectado directamente a las computadoras de Internet que usamos tú y yo todos los días se llaman clientes porque
+están conectados indirectamente a la Internet a través de un servicio de Internet.<a href="https://www.youtube.com/watch?v=7_LPdttKXPc">https://www.youtube.com/watch?v=7_LPdttKXPc</a></p></b>
+
+<p style="font-size:130%;"><b>El correo electrónico cada vez que un correo electrónico imagen o página web viaja a través del las computadoras de internet rompen la información en pedazos más pequeños llamados paquetes cuando
+la información llega a su destino los paquetes se vuelven a ensamblar en su pedido original para hacer un correo electrónico con imagen página web o tweet está bien. </p></b>
+
+
+<h2><font color="blue"><i>2.-SDK para web.</i></h2></font>
+
+<p style="font-size:130%;"><b>SDK es el acrónimo de “Software Development Kit” (Kit de desarrollo de software). El SDK reúne un grupo de herramientas que permiten la programación de aplicaciones móviles. Este conjunto de herramientas se puede dividir en 3 categorías: SDK para entornos de programación o sistemas operativos (iOS, Android, etc.) Aqui por ejemplo te mostramos una pagina de una sdk para html: <a href="https://www.w3schools.com/">https://www.w3schools.com/</a> Y aqui una app para pc descargable <a href="https://atom.io/">https://atom.io/</a></p></b>
+
+
+<img src="https://zoominformatica.com/blog/wp-content/uploads/2016/09/SDK.png" style="width:300px;heigth:200px;">
+<img src="https://flight-manual.atom.io/getting-started/images/linux-downloads.png" align="right" style="width:300px;heigth:200px;">
+
+
+<hr/>
+<hr/>
+</body>
+</html>
